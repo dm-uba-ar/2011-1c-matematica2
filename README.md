@@ -1,9 +1,5 @@
 # Matemática 2 — Primer cuatrimestre de 2011
 
-## Equipo docente
-
-- **Clases teóricas:** María Julia Redondo
-
 ## Prácticas
 
 - [Práctica 0](practica0.pdf)
